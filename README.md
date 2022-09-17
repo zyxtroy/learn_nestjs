@@ -1,4 +1,4 @@
-This is an introductory project of Nest js
+Messages is an introductory project for Nest js
 
 Please refer to the ```notes.pdf``` for details
 
